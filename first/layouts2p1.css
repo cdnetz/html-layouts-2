@@ -1,0 +1,75 @@
+html, body{
+	height: 100%;
+	margin: 0;
+}
+
+.topcontainer{
+	width: 29%;
+	height: 150px;
+	float: left;
+	display: inline-block;
+	margin: 20px 15px 20px 15px;
+}
+
+.left{
+	background: #D0021B;
+	margin-left: 30px; 
+}
+
+.center{
+	background: #4A90E2;
+
+}
+
+.right {
+	background: #4A4A4A;
+	margin-right: 5px;
+	
+}
+
+.content {
+	width: 100%;
+	padding: 5px 25px 10px 25px;
+	clear: both;
+	font-size: 18px;
+	font-family: sans-serif;
+	box-sizing: border-box;
+	text-align: left;
+	line-height: 25px;
+}
+
+.level3 {
+	width: 95%;
+	height: 40%;
+	margin: 10px 10px 10px 20px;
+	background: #4A90E2;
+}
+
+.inlevel3 {
+	width: 30%;
+	height: 100%;
+	background: #D0021B;
+}
+
+.level4{
+	width: 95%;
+	height: 15%;
+	background: #4A90E2;
+	margin: 20px 10px 10px 20px;
+}
+
+.oneinlevel4 {
+	height: 100%;
+	width: 33%;
+	float: right;
+	background: #D0021B;
+
+}
+.twoinlevel4 {
+	height: 100%;
+	width: 75%;
+	background: #4A4A4A;
+	margin: 0px 12.5% 0px 12.5%;
+}
+
+
